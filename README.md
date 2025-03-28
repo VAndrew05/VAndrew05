@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤓 About Me:
 🧑‍💻 I'm currently a first year student at Politehnica University of Bucharest, studying computer science<br>🎶 I've been producing music for 3 years, as a hobby<br>📸🌇 Big fan of photography, especially sunsets<br>🎮 Gamer since I was little
 
 
