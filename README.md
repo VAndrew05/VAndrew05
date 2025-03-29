@@ -1,4 +1,5 @@
 ## 🤓 About Me:
+<img alt="Fast Coding" src="./gits.gif" />
 <ul>
 <li>🧑‍💻 I'm currently a first year student at Politehnica University of Bucharest, studying computer science
 <li>🎶 I've been producing music for 3 years, as a hobby
